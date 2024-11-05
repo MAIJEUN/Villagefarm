@@ -29,11 +29,13 @@ layout:
 {% endtab %}
 
 {% tab title="서버 소개" %}
-할 서버가 떨어졌거나, 심심하신가요?
+<mark style="color:blue;">**미니게임**</mark>**, **<mark style="color:red;">**RPG**</mark>**, **<mark style="color:orange;">**마인팜**</mark>을 모두 합친 서버, <mark style="color:yellow;">**빌리지팜**</mark> 입니다!
 
-<mark style="color:yellow;">빌리지팜</mark>을 시작하세요!
+* 주민들과 얘기하면서 힐링하는 서버!
+* 오직 빌리지팜에만 존재하는 멋진 치장품들!
+* 치장품을 얻어서 친구들한테 자랑하세요!
 
-언제든지 접속가능한 <mark style="color:yellow;">24시간</mark> 서버, 최고의 안정성!
+언제든지 접속 가능한 <mark style="color:blue;">**24시간 서버**</mark>**, **<mark style="color:blue;">**PING 50 이하**</mark>**, **<mark style="color:blue;">**TPS 19**</mark> 이상 보장!
 {% endtab %}
 {% endtabs %}
 

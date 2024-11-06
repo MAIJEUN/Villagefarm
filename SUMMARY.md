@@ -7,7 +7,7 @@
 ## 🏁 서버 시작하기 <a href="#getting-started" id="getting-started"></a>
 
 * [🎁 디스코드](getting-started/discord.md)
-* [📩 서버 접속하기](getting-started/step-1.md)
+* [📩 서버 접속하기](getting-started/connect-server.md)
 
 ## 📎 가이드 <a href="#guide" id="guide"></a>
 

@@ -1,6 +1,6 @@
 # 📧 문의하기
 
-해당 위키의 오류가 있거나, 서버에 문제가 있을시 [<mark style="color:blue;">디스코드</mark>](../getting-started/discord.md)를 통해 제보해주세요!
+해당 위키의 오류가 있거나, [서버](../getting-started/step-1.md)에 문제가 있을시 [<mark style="color:blue;">디스코드</mark>](../getting-started/discord.md)를 통해 제보해주세요!
 
 * 제보시 최대 24시간 이내로 해결됩니다
 
